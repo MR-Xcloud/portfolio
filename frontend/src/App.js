@@ -348,7 +348,7 @@ function App() {
                   <span className="contact-icon">📧</span>
                   <div className="contact-text">
                     <span className="contact-label">Email</span>
-                    <a href="mailto:nishb9285@gmail.com" className="contact-value">nishb9285@gmail.com</a>
+                    <a href="mailto:nitish892383@gmail.com" className="contact-value">nitish892383@gmail.com</a>
                   </div>
                 </div>
                 
@@ -356,7 +356,7 @@ function App() {
                   <span className="contact-icon">📱</span>
                   <div className="contact-text">
                     <span className="contact-label">Phone</span>
-                    <a href="tel:+917445156403" className="contact-value">+91 7445156403</a>
+                    <a href="tel:+917668154063" className="contact-value">+91 7668154063</a>
                   </div>
                 </div>
                 
@@ -372,7 +372,7 @@ function App() {
                   <span className="contact-icon">💼</span>
                   <div className="contact-text">
                     <span className="contact-label">LinkedIn</span>
-                    <a href="https://linkedin.com/in/anurag-sharma-009314175" target="_blank" rel="noopener noreferrer" className="contact-value">linkedin.com/in/anurag-sharma-009314175</a>
+                    <a href="https://www.linkedin.com/in/anurag-sharma-0091b419a/" target="_blank" rel="noopener noreferrer" className="contact-value">https://www.linkedin.com/in/anurag-sharma-0091b419a/</a>
                   </div>
                 </div>
               </div>

@@ -53,7 +53,7 @@ async def get_portfolio_info():
         "title": "Backend Developer & Data Enthusiast",
         "location": "Greater Noida, India",
         "email": "nishb9285@gmail.com",
-        "phone": "+91 7445156403",
+        "phone": "+91 7668154063",
         "linkedin": "https://linkedin.com/in/anurag-sharma-009314175",
         "experience_years": 1,
         "projects_count": 4,
