@@ -308,7 +308,7 @@ function App() {
               <div className="education-header">
                 <h3 className="degree">Bachelor of Technology</h3>
                 <span className="institution">G.L BAJAJ GROUP OF INSTITUTIONS</span>
-                <span className="duration">2020 - 2024</span>
+                <span className="duration">2019 - 2023</span>
                 <span className="location">Mathura, Uttar Pradesh</span>
               </div>
             </div>
