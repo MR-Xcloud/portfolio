@@ -386,7 +386,7 @@ function App() {
         <div className="container">
           <div className="footer-content">
             <p>&copy; 2024 Anurag Sharma. All rights reserved.</p>
-            <p>Built with React & Modern Web Technologies</p>
+            {/* <p>Built with React & Modern Web Technologies</p> */}
           </div>
         </div>
       </footer>
