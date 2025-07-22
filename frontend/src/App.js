@@ -56,7 +56,7 @@ function App() {
       features: ['Multi-teacher support', 'Rate management', 'Parent dashboard', 'Student tracking']
     },
     {
-      title: 'Jarvis Assistant (LLO Co-pilot)',
+      title: 'Jarvis Assistant (LLM Co-pilot)',
       description: 'Contributed to the development of a voice-activated AI assistant specializing in speech-to-text processing and voice activation. Designed and implemented seamless user interactions and real-time responsiveness.',
       technologies: ['Python', 'Speech Processing', 'AI/ML', 'Real-time Systems'],
       image: 'https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b',
@@ -68,6 +68,34 @@ function App() {
       technologies: ['Python', 'OpenCV', 'Machine Learning', 'Computer Vision'],
       image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b',
       features: ['Movement tracking', 'Exercise analysis', 'Court representation', 'Real-time feedback']
+    },
+    {
+      title: 'WM Connect',
+      description: 'A real-time chat application enabling seamless communication, built using Django for the backend, React for the frontend, and Firebase for real-time messaging and notifications.',
+      technologies: ['Django', 'React', 'Firebase'],
+      image: 'https://images.unsplash.com/photo-1519125323398-675f0ddb6308',
+      features: ['Real-time chat', 'User authentication', 'Firebase notifications', 'Modern UI']
+    },
+    {
+      title: 'Coach AI',
+      description: 'A personalized AI-powered coaching platform that provides tailored fitness and wellness plans, tracks user progress, and offers real-time feedback using advanced analytics and machine learning.',
+      technologies: ['Python', 'Django', 'AI/ML', 'React'],
+      image: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb',
+      features: ['Personalized coaching', 'Progress tracking', 'AI-driven recommendations', 'Real-time feedback']
+    },
+    {
+      title: 'Med Spa',
+      description: 'A comprehensive management and booking platform for medical spas. Users can upload a picture of their face to receive AI-driven analysis and results for conditions such as hyperpigmentation, acne, pimples, dark circles, and more. Also features appointment scheduling, client management, and integrated payment solutions with a modern, user-friendly interface.',
+      technologies: ['Django', 'React', 'Stripe', 'PostgreSQL'],
+      image: 'https://images.unsplash.com/photo-1515378791036-0648a3ef77b2',
+      features: ['Appointment scheduling', 'Client management', 'Integrated payments', 'Modern UI']
+    },
+    {
+      title: 'Search Engine',
+      description: 'A powerful search engine platform that integrates OpenAI for advanced natural language understanding. Features a custom API for a company website, enabling users to ask any question about the website and receive intelligent, context-aware answers powered by AI.',
+      technologies: ['OpenAI', 'Custom API', 'React', 'Django'],
+      image: 'https://images.unsplash.com/photo-1464983953574-0892a716854b',
+      features: ['OpenAI integration', 'Custom website API', 'Natural language Q&A', 'Context-aware search']
     }
   ];
 
