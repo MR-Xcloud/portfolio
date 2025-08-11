@@ -52,11 +52,11 @@ async def get_portfolio_info():
         "name": "Anurag Sharma",
         "title": "Backend Developer & Data Enthusiast",
         "location": "Greater Noida, India",
-        "email": "nishb9285@gmail.com",
+        "email": "nitish892383@gmail.com",
         "phone": "+91 7668154063",
         "linkedin": "https://linkedin.com/in/anurag-sharma-009314175",
         "experience_years": 1,
-        "projects_count": 4,
+        "projects_count": 7,
         "certifications_count": 7
     }
 
@@ -68,7 +68,7 @@ async def get_skills():
         "frameworks": ["Django", "Django REST Framework", "Flask"],
         "databases": ["PostgreSQL", "MySQL", "SQLite3", "Vector Database"],
         "cloud": ["AWS", "Docker", "S3 Bucket"],
-        "aiml": ["LLM Models", "RAG", "Langchain", "OpenCV", "NLP", "Machine Learning"],
+        "AI/ML": ["LLM Models", "RAG", "Langchain", "OpenCV", "NLP", "Machine Learning"],
         "tools": ["Git", "BitBucket", "Power BI", "APPIAN Low Code"]
     }
 
