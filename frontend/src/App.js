@@ -60,7 +60,7 @@ function App() {
     frameworks: ['Django', 'Django REST Framework', 'Flask'],
     databases: ['PostgreSQL', 'MySQL', 'SQLite3', 'Vector Database'],
     cloud: ['AWS', 'Docker', 'S3 Bucket'],
-    aiml: ['LLM Models', 'RAG', 'Langchain', 'OpenCV', 'NLP', 'Machine Learning'],
+    AI: ['LLM Models', 'RAG', 'Langchain', 'OpenCV', 'NLP', 'Machine Learning'],
     tools: ['Git', 'BitBucket', 'Power BI', 'APPIAN Low Code']
   };
 
